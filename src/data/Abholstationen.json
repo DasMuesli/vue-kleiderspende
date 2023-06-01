@@ -1,0 +1,16 @@
+[
+    {
+        "plz": 12345,
+        "stadt": "Musterstadt",
+        "strasse": "Musterstraße",
+        "hausnr": 35
+    },
+    {
+        "plz": 34567,
+        "stadt": "Musterstadt2",
+        "strasse": "Musterstraße2"
+    },
+    {
+        "plz": 71117
+    }
+]
