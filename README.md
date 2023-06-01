@@ -1,24 +1,15 @@
 # vue-kleiderspende
 
-## Project setup
-```
-npm install
-```
+## Übersicht
+Hier ist eine Web-Anwendung programmiert, mit der Kleiderspenden angemeldet werden können.
+Das ganze ist im Rahmen einer Fallstudie an der IU Internationalen Hochschule entstanden.
 
-### Compiles and hot-reloads for development
+### Kompilieren während dem Entwickeln
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Kompilieren für ein abschließendes Ergebnis
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
